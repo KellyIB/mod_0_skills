@@ -1,0 +1,17 @@
+Object: Table 1
+
+Attributes:
+
+tableNumber: "1"
+hasTablecloth: false
+serverAssigned: "Jane Doe"
+seatsHowMany: 5
+tableReady: false
+
+
+ Methods:
+
+ addTablecloth: true
+ changeServer: "Sally Mae"
+ addChair: 6
+ getTableReady: true

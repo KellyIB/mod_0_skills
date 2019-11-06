@@ -1,0 +1,17 @@
+Class: Server
+
+Attributes:
+
+name (string)
+hasUniform (boolean)
+trainedServer (boolean)
+trainedDishwasher (boolean)
+trainedGreeter (boolean)
+
+
+Methods:
+
+getUniform (changes hasUniform from false to true)
+getTrainingServer (changes trainedServer from false to true)
+getTrainingGreeter (changes trainedGreeter from false to true)
+getTrainingDishwasher (changes trainedDishwasher from false to true)

@@ -1,0 +1,44 @@
+1 Apply to Turing
+  1.1 Go to Turing website
+  1.2 Decide which program to enter
+  1.3 Fill in the application fields
+  1.4 Take the Test
+  1.5 Wait to hear if your application is approved
+    if application is approved, go to step 2
+    if application is denied
+      1.5.1 Follow Turing's instructions to meet conditions to re-apply
+      1.5.2 Go to step 1.1
+2 Accept Invitation for Interview Appointment
+  2.1 Choose Interview time and date
+  2.2 Prepare for Interview
+  2.3 Attend Interview
+    2.3.1 Give personal information and answer questions
+    2.3.2 Complete logic evaluation
+  2.4 Wait for acceptance notification
+    if accepted go to step 3
+    if denied
+      2.4.1 implement corrective action needed to re-Apply
+      2.4.2 go to step 1.1
+3 Decide how to pay for Turing
+  3.1 Evaluate finances to determine if you can pay full-tuition out of pocket
+    if you can pay full cost out of pocket go to step 4
+    if you cannot pay full cost out of pocket
+  3.2 Determine which financial aid/loan to apply for
+  3.3 Apply for loan/financial aid
+    if loan/aid approved, go to step 4
+    if loan/aid denied
+  3.4 Fix financial situation
+    3.4.1 Talk to financial advisor
+    3.4.2 Evaluate financial situation
+    3.4.3 Decide on best course of action
+    3.4.4 Take corrective action to qualify for loan
+    3.4.5 go to step 3.3
+4 Select Cohort
+  4.1 Decide when you want to start school
+  4.2 see if there is room in the cohort for you
+    if there is room, go to step 5
+    if there is not room
+  4.3 choose another cohort or ask to be added to the waiting list for the cohort of your choice
+    if you choose another cohort, go to step 4.2
+    if you add to a waiting list, go to step 5
+5. Sign up for mod0

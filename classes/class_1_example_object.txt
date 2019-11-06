@@ -1,0 +1,16 @@
+Object: Jane Doe
+
+ Attributes:
+name: "Jane Doe"
+hasUniform: false
+trainedServer: false
+trainedDishwasher: false
+trainedGreeter: false
+
+
+ Methods:
+
+ getUniform: true
+ getTrainingServer: true
+ getTrainingGreeter: true
+ getTrainingDishwasher: true

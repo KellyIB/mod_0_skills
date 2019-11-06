@@ -1,0 +1,17 @@
+Class: Table
+
+Attributes:
+
+tableNumber (string)
+hasTablecloth (boolean)
+serverAssigned (string)
+seatsHowMany (integer)
+tableReady (boolean)
+
+
+Methods:
+
+addTablecloth (changes hasTablecloth from false to true)
+changeServer (changes serverAssigned)
+addChair (increases seatsHowMany by 1)
+getTableReady (changes tableReady from false to true)
